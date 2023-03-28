@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
         title: const Text('우리들의 미팅 시간'),
       ),
       body: const Center(
-        child: Text('Home Screen, 와이어프레임 작성해야함'),
+        child: Text('슬랙 알림 테스트'),
       ),
     );
   }
